@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ceny Paliw</string>
+    <string name="name">Nazwa</string>
+    <string name="fuel_type">Typ paliwa</string>
+    <string name="price_per_liter">Cena za litr</string>
+    <string name="liters">Litry</string>
+    <string name="history">Historia</string>
+    <string name="stats">Statystyki</string>
+    <string name="gasoline">Benzyna</string>
+    <string name="gasoline_lpg">Benzyna + LPG</string>
+    <string name="name_field_cannot_be_empty_message">Nazwa nie może być pusta</string>
+    <string name="saved">Zapisano</string>
+    <string name="date_cannot_be_after_today">Data nie może być późniejsza niż dzisiaj</string>
+    <string name="price_is_incorrect">Cena nie może być pusta</string>
+    <string name="price">Cena</string>
+    <string name="date">Data</string>
+    <string name="done">Gotowe</string>
+    <string name="deleted">Usunięto</string>
+    <string name="restore">Przywróć</string>
+    <string name="add">Dodaj</string>
+    <string name="edit">Edytuj</string>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Fuel Prices</string>
+    <string name="name">Name</string>
+    <string name="fuel_type">Fuel type</string>
+    <string name="price_per_liter">Price per liter</string>
+    <string name="liters">Liters</string>
+    <string name="history">History</string>
+    <string name="stats">Stats</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="gasoline">Gasoline</string>
+    <string name="diesel" translatable="false">Diesel</string>
+    <string name="lpg" translatable="false">LPG</string>
+    <string name="gasoline_lpg">Gasoline + LPG</string>
+    <string name="name_field_cannot_be_empty_message">Name field cannot be empty</string>
+    <string name="saved">Saved</string>
+    <string name="date_cannot_be_after_today">Date cannot be set to after today</string>
+    <string name="price_is_incorrect">Price field cannot be empty</string>
+    <string name="price">Price</string>
+    <string name="date">Date</string>
+    <string name="done">Done</string>
+    <string name="deleted">Deleted</string>
+    <string name="restore">Restore</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+
+    <string-array name="fuel_types">
+        <item>@string/gasoline</item>
+        <item>@string/diesel</item>
+        <item>@string/lpg</item>
+    </string-array>
+</resources>
